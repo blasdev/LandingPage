@@ -1,0 +1,40 @@
+.header{
+    text-align: center;
+}
+
+.topnav{
+
+text-align: center;
+
+}
+
+ body {
+
+    background-image: url(image.jpg);
+    background-size: cover;
+ }
+
+ #container {
+   width: 450px;
+   height: 400px;
+   background: rgba(0, 0, 0, 0.4);
+   padding: 40px;
+   text-align: center;
+   margin: auto;
+   margin-top: 5%;
+   color: white;
+   font-family: 'Century Gothic',sans-serif;
+    
+ }
+ h1{
+    color: white;
+    text-align: center;
+    
+ }
+ .box-img{
+   border-radius: 50%;
+   width: 200px;
+   height: 200px;
+ }
+
+ 
